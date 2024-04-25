@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Elements</title>
+</head>
+<body>
+
+
+Comment Tag 
+   <!--Comment-->
+
+Abbreviation tag 
+   <abbr></abbr>
+
+Address tag 
+   <address></address>
+
+Article tag 
+   <article></article>
+
+Aside tag 
+   <aside></aside>
+
+Audio tag 
+   <audio></audio>
+
+Bold tag 
+   <bold></bold>
+
+Base tag*
+   <base href="">
+
+BDO tag
+   <bdo></bdo>
+
+Blockquote tag
+   <blockquote></blockquote>
+
+Line break tag
+   <br>
+
+Button tag
+   <button></button>
+
+Canvas tag*
+   <canvas></canvas>
+
+Cite tag
+   <cite></cite>
+
+Code tag
+   <code></code>
+
+Col tag*
+   <col>
+
+Col group tag*
+   <colgroup></colgroup>
+
+Data tag*
+   <data></data>
+
+Data list tag*
+   <datalist></datalist>
+
+
+dd tag*
+   <dd></dd>
+
+Del tag
+   <del></del>
+
+Details tag
+   <details></details>
+
+Definition tag*
+   <dfn></dfn>
+
+Dialog tag*
+   <dialog></dialog>
+
+Division tag
+   <div></div>
+
+Description list tag*
+   <dl></dl>
+
+Emphasized text tag
+   <em></em>
+
+Embed tag
+   <embed></embed>
+
+Fieldset tag*
+   <fieldset></fieldset>
+
+Caption for figure element tag*
+   <figcaption></figcaption>
+
+Figure tag
+   <figure></figure>
+
+Footer tag
+   <footer></footer>
+
+Form tag
+   <form></form>
+
+Header tag
+   <header></header>
+
+hgroup tag
+   <hgroup></hgroup>
+
+hr tag (Horizontal line)
+   <hr>
+
+italic tag
+   <i></i>
+
+Inline frame tag
+   <iframe src=""></iframe>
+
+Image tag
+   <img src="">
+
+Input tag
+   <input>
+
+Insert tag
+   <ins></ins>
+
+Keyboard input tag
+   <kbd></kbd>
+
+Label tag
+   <label></label>
+
+Legend tag
+   <legend></legend>
+
+List tag
+   <li></li>
+
+Link tag
+   <link rel="stylesheet" type="text/css" href="">
+
+Main tag
+   <main></main>
+
+Map tag*
+   <map></map>
+
+Mark or highlight tag
+   <mark></mark>
+
+Menu tag
+   <menu></menu>
+
+</body>
+</html>
